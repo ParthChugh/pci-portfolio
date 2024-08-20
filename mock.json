@@ -1,0 +1,244 @@
+{
+  "title": "Welcome to DevInsights",
+  "subtitle": "Bridging Tech Gaps, Building Digital Futures",
+  "subHeading": "Unleash your development prowess and conquer the digital landscape with our expert freelance services.",
+  "feedback": {
+    "message": "“DevInsights was great to work with! They helped us build a cutting-edge web application, allowing us to scale our business rapidly. Always available if you have any questions. Highly recommend DevInsights & team.”",
+    "name": "Ryan Alder",
+    "title": "President, AE Partners"
+  },
+  "aboutUs": {
+    "title": "Software Development Services for Digital Success",
+    "subHeading1": "Crafted with your unique needs at the heart, our experienced team blends deep technical expertise with innovation to deliver customized software solutions, designed to drive your business growth and success.",
+    "subHeading2": "Whether you require assistance in building a robust web platform, designing user-friendly mobile applications, or developing complex back-end systems, DevInsights has you covered.",
+    "subHeading3": "We deeply understand the challenges you face and have partnered with many companies, helping them navigate the digital landscape and achieve remarkable results.",
+    "about": "Our name is derived from the combination of 'Dev' and 'Insights,' representing our core values and unique approach.",
+    "aboutDev": "\"Dev - The Development Expert\": In the ever-evolving world of technology, 'Dev' represents the expertise we bring to software development. At DevInsights, we harness the power of development to navigate complexities and provide you with strategic digital solutions.",
+    "aboutInsights": "\"Insights - Strategic Vision\": The 'Insights' in DevInsights embodies our commitment to understanding your business needs and providing visionary solutions. We stand by our clients, offering insights that drive successful projects from start to finish."
+  },
+  "whyChooseUs": {
+    "title1": "Unrivaled expertise fostering business growth through innovative software solutions",
+    "title2": "",
+    "subTitle": "",
+    "description1": "Skilled professionals with extensive expertise in the software development sector.",
+    "description2": "Tailored software solutions catering to your individual business needs.",
+    "description3": "Dependable and proven assistance in tackling technical challenges.",
+    "description4": "Empowering you with the tools to make confident decisions for your digital future.",
+    "data": {
+      "Projects Worldwide": "200+",
+      "Lines of Code": "10M+",
+      "Years of Industry Experience": "20+"
+    },
+    "contact": "+91  8947858898, +91 9929927788",
+    "email": "Contact@devinsights.com",
+    "address": "Carmel Hill, Bikkernakatta, Maroli, Mangalore, Karnataka, 575005, India"
+  },
+  "services": {
+    "heading": "Shape your digital future with comprehensive solutions and expert guidance",
+    "subHeading": "Discover a suite of dynamic software development solutions designed to propel your business forward. Unleash the power of technology-driven insights and expert development to optimize your digital strategies, enhance decision-making, and unlock long-term success. Partner with us and navigate your tech challenges with confidence.",
+    "includedServices": [
+      {
+        "heading": "Web Development",
+        "description": "Build and optimize your online presence with expert web development.",
+        "description2": "Our Web Development services go beyond just coding. We create sophisticated websites and web applications that serve as strategic tools for your business. From e-commerce platforms to complex web systems, our solutions are meticulously crafted to provide a comprehensive view of your digital landscape, helping you make informed decisions with confidence.",
+        "points": [
+          "Custom Web Applications",
+          "E-commerce Development",
+          "Content Management Systems",
+          "Responsive Web Design",
+          "API Integration"
+        ],
+        "imageName": "web-development.svg"
+      },
+      {
+        "heading": "Mobile App Development",
+        "description": "Deliver seamless mobile experiences with expertly crafted apps.",
+        "description2": "In the competitive mobile market, having a strong presence is crucial. Our Mobile App Development services at DevInsights provide end-to-end solutions, from concept to deployment. Whether it's iOS, Android, or cross-platform apps, we build intuitive and engaging mobile experiences that align with your business goals.",
+        "imageName": "mobile-app.svg",
+        "points": [
+          "iOS and Android Development",
+          "Cross-Platform Solutions",
+          "App Store Optimization",
+          "User Experience Design"
+        ]
+      },
+      {
+        "heading": "Cloud Solutions",
+        "description": "Leverage the cloud to enhance scalability, security, and efficiency.",
+        "description2": "Empower your business with cloud-based solutions that offer flexibility and scalability. DevInsights’ Cloud Solutions provide a tailored approach to your infrastructure needs. From cloud migration to ongoing management, our experts ensure your systems are robust, secure, and ready to scale as your business grows.",
+        "imageName": "cloud.svg",
+        "points": [
+          "Cloud Migration",
+          "Infrastructure as a Service (IaaS)",
+          "Platform as a Service (PaaS)",
+          "DevOps and Continuous Integration"
+        ]
+      },
+      {
+        "heading": "Software Testing",
+        "description": "Ensure the reliability and performance of your software with thorough testing.",
+        "description2": "Our Software Testing services at DevInsights ensure your applications are bug-free and perform optimally. We offer comprehensive testing solutions, including automated testing, performance testing, and security testing, to ensure your software meets the highest standards of quality.",
+        "imageName": "testing.svg",
+        "points": [
+          "Automated Testing",
+          "Manual Testing",
+          "Performance Testing",
+          "Security Testing"
+        ]
+      }
+    ]
+  },
+  "keyCredentials": {
+    "title": "Key Credentials",
+    "subHeading": "Backed by a proven track record of serving businesses in the tech industry, our success speaks for itself. We have delivered exceptional software solutions, driving businesses towards long-term growth. Our expertise, precision, and commitment make us your trusted partner for all your software development needs.",
+    "companies": [
+      {
+        "src": "/images/metabase_new.jpeg",
+        "alt": "Metabase Q Logo",
+        "name": "Metabase Q"
+      },
+      {
+        "src": "/images/bayanat_engg_1.png",
+        "alt": "Bayanat Engineering Logo",
+        "name": "Bayanat Engineering"
+      },
+      {
+        "src": "/images/TG.png",
+        "alt": "Tashas Group Logo",
+        "name": "Tashas Group"
+      },
+      {
+        "src": "/images/KS_global.svg",
+        "alt": "K5 Global Logo",
+        "name": "K5 Global"
+      },
+      {
+        "src": "/images/thryve_earth.svg",
+        "alt": "Thryve Earth Logo",
+        "name": "Thryve Earth"
+      },
+      {
+        "src": "/images/AFG-Logo-New-2022.png",
+        "alt": "Africa Foresight Group Logo",
+        "name": "Africa Foresight Group"
+      },
+      {
+        "src": "/images/canonical_1.png",
+        "alt": "Canonical Logo",
+        "name": "Canonical"
+      },
+      {
+        "src": "/images/sheaves_capital.png",
+        "alt": "Sheaves Capital Logo",
+        "name": "Sheaves Capital"
+      },
+      {
+        "src": "/images/MAI-logo-01.png",
+        "alt": "Mai Labs Logo",
+        "name": "Mai Labs"
+      }
+    ]
+  },
+  "testimonial": {
+    "title": "Praise From Our Valued Clients",
+    "data": [
+      {
+        "name": "Paul Linden",
+        "designation": "Managing Director, P Arthur Holdings",
+        "content": "“I am thrilled to write a glowing review for the exceptional work done by DevInsights! I had the pleasure of working with them for the second time, and once again, they exceeded all expectations.\nDevInsights demonstrated a remarkable talent in building a highly complex web application. Their attention to detail and expertise in the field are truly impressive. They took the time to understand my specific needs and delivered a solution that was tailored perfectly for my requirements.\nThroughout the project, communication was smooth and efficient. They kept me informed of the progress and welcomed any feedback with open arms. The final result was nothing short of outstanding!\nI wholeheartedly recommend DevInsights to anyone seeking a reliable and skilled development partner. I am grateful for their contributions and will undoubtedly work with them again in the future.“",
+        "imageName": "testimonial/paul_linden.png"
+      },
+      {
+        "name": "Charlie Liu",
+        "designation": "Director Solutions, OnPlan",
+        "content": "“DevInsights started the contract helping us with some supporting development, and they quickly turned into a core part of our operations. They were knowledgeable in all things software development related and quickly adaptable to different technologies and tools. DevInsights also had an excellent knack for project and people management.”",
+        "imageName": "testimonial/charlie_liu.png"
+      },
+      {
+        "name": "Yasmin Kumi",
+        "designation": "Partner, Africa Foresight Group",
+        "content": "“DevInsights team is great at software development and I can assure that our requirements were extremely complex. They were patient and responsive. Looking forward to working together in the near future.”",
+        "imageName": "testimonial/yasmin_kumi.png"
+      }
+    ]
+  },
+  "ourTeam": {
+    "title1": "Meet the Faces Behind X-F1",
+    "subHeading": "Leveraging unparalleled experience and profound knowledge, our team with well over a couple of decade’s worth of experience between us is steered by seasoned experts who excel in their field.",
+    "title2": "",
+    "teamMembers": [
+      {
+        "name": "Parth Chugh",
+        "role": "Director",
+        "linkedin": "https://www.linkedin.com/in/parth-chugh/",
+        "about": [
+          "Abhishek, a seasoned Chartered Accountant with over a decade of expertise in Financial Planning & Analysis (FP&A), Corporate Finance, and Project Finance, brings extensive experience across diverse sectors, including Renewable Energy, Real Estate, SaaS, and Hospitality. Recognized as an Advanced Financial Modeler by the Financial Modeling Institute and holding the CFA Level 1 credential, he exemplifies a strong commitment to excellence.",
+          "Noteworthy is his outstanding achievement, securing World Rank #2 in the 2020 Financial Modeling World Cup Stage 3. This accomplishment underscores his exceptional proficiency in financial analysis and modeling. Abhishek's impressive track record, complemented by testimonials, attests to his ability to craft data-driven financial strategies with a distinctive touch"
+        ],
+        "imageSrc": "/images/team/abhishek.png",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "name": "Vavrinec Kryzanek, CFA",
+        "role": "Manager, Business Modelling & Analytics",
+        "linkedin": "https://www.linkedin.com/in/vavrinec-kryzanek-3507a837/",
+        "about": [
+          "Vavrinec a finance professional hailing from the Czech Republic, earned his bachelor's degree in finance from the University of Economics in Prague. His career journey includes impactful roles at Citibank in Prague, where he served as an analyst in the MIS/Decision Science team, specializing in reporting and analytics for product and sales management.",
+          "Later, he took on the responsibility of managing the FP&A team for Home Credit's Indian subsidiary. Vavrinec holds a master's degree in finance from IE Business School in Spain, showcasing his commitment to continuous learning. Before joining XF1, he contributed his expertise to ARC Financial Services in India and led Genpact's FP&A team, overseeing marketing expenses in Central and Eastern Europe for a prominent global FMCG company."
+        ],
+        "imageSrc": "/images/team/vavrinec.png",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "name": "Himanshi Jain, CA",
+        "role": "Team Lead, FP&A",
+        "linkedin": "https://www.linkedin.com/in/himanshi-jain-5689784/",
+        "about": [
+          "Himanshi, a Chartered Accountant with extensive experience in Financial Planning & Analysis (FP&A), leverages her expertise to provide precise analysis, forecasting, and strategic planning guidance to financial teams. Demonstrating a consistent record of financial excellence, she holds a crucial position in facilitating informed decision-making and fostering organizational success."
+        ],
+        "imageSrc": "/images/team/himanshi.jpg",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "name": "Ashutosh Kagali, CA",
+        "role": "Senior Consultant",
+        "linkedin": "https://www.linkedin.com/in/ashutoshrkagali/",
+        "about": [
+          "Ashutosh, a Chartered Accountant with four years of finance expertise, specializes in financial modeling and business valuations. His notable contributions have significantly influenced financial decision-making across diverse industries. Notably, prior to joining X-F1, he was working at LSEG (London Stock Exchange Group)."
+        ],
+        "imageSrc": "/images/team/ashutosh.png",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "name": "Nitin Sharma",
+        "role": "Consultant",
+        "linkedin": "https://www.linkedin.com/in/nitin-sharma08/",
+        "about": [
+          "Nitin, with a fervor for financial modeling, possesses a keen eye for detail and excels in crafting sophisticated, data-driven financial strategies that drive informed decision-making and strategic success. In addition to his expertise, Nitin is a CFA Level 1 candidate. Prior to joining XF1, he honed his skills working in a CA firm."
+        ],
+        "imageSrc": "/images/team/nitin.png",
+        "width": 300,
+        "height": 300
+      }
+    ]
+  },
+  "contact": {
+    "title": "Stuck somewhere in your financial journey? Let us help you.",
+    "description": "Delve into the grand scheme of your financial landscape with X-F1, where we help you make better financial decisions backed with numbers and not assumptions.",
+    "phone": "+91-9873150658",
+    "email": "info@xf1advisory.com",
+    "address": "#43, WeWork Galaxy Residency Road, Ashok Nagar, Bengaluru - 560025 Karnataka, India"
+  },
+  "appointment": {
+    "subHeading1": "Leveraging unparalleled experience and profound knowledge, our team with well over a couple of decade’s worth of experience between us is steered by seasoned experts who excel in their field.",
+    "subHeading2": ""
+  },
+  "footer": {
+    "details": "Copyright 2023, DevInsights",
+    "description": "Crafting Digital Excellence"
+  }
+}

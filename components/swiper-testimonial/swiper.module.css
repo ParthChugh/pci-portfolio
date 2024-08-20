@@ -1,0 +1,163 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 80px 60px 80px;
+}
+
+.span {
+    color: #64A9CF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25.6px;
+    letter-spacing: -0.5px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.line {
+    width: 100px;
+    height: 0;
+    border: 1px solid #5EB01E;
+    margin: 3px;
+    display: inline-block
+}
+
+.slide_item {
+    /* max-height: 1050px; */
+    /* min-height: 250px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item_box {
+    /* background: #F3F3F3; */
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.heading {
+    color: #071033;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: -1px;
+    width: 750px;
+}
+
+.user_wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.user_photo {
+    /* width: 15%; */
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.userimg {
+    object-fit: contain;
+    border-radius: 100%;
+}
+
+.user_info {
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.name {
+    color: #12232E;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22.7px;
+}
+
+.details {
+    color: #8F8F8F;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.paragraph {
+    color: #071033;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.swiper_wrapper {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .wrapper {
+        padding: 40px 20px 50px 20px;
+    }
+    
+    .item_box{
+        padding: 15px;
+        height: 90%;
+    }
+
+    .user_photo{
+        width:20%
+    }
+    .user_info{
+        width: 80%;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .heading {
+        font-size: 25px;
+        width: 100%;
+    }
+    .wrapper {
+        padding: 20px 15px;
+    }
+
+    .user_info{
+        width: 75%;
+    }
+    .slide_item{
+        height: fit-content;
+    }
+    .swiper_wrapper{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .paragraph {
+        font-size: 17px;
+    }
+    .details {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+
+    .swiper_wrapper{
+        width: 70%;
+    }
+}

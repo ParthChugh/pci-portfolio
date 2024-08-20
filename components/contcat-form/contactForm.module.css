@@ -1,0 +1,337 @@
+.wrapper {
+    width: 100%;
+    background: linear-gradient(90deg, rgba(18, 33, 43, 1) 0%, rgba(19, 53, 75, 1) 35%);
+    position: relative;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.bg_overlay {
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    text-align: right;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+}
+
+.section_one {
+    width: 50%;
+    z-index: 2;
+}
+
+.section_two {
+    width: 50%;
+    z-index: 2;
+}
+
+.span {
+    color: #5EB01E;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25.6px;
+    letter-spacing: -0.5px;
+    margin-right: 15px;
+}
+
+.line {
+    width: 100px;
+    height: 0;
+    border: 1px solid #64A9CF;
+    margin: 3px;
+    display: inline-block
+}
+
+.heading {
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: -1px;
+}
+
+.paragraph {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 15px;
+    width: 95%;
+}
+
+.form_wrapper {
+    background: #FFF;
+    padding: 10px 20px;
+    z-index: 2;
+    width: 80%;
+    min-height: 350px;
+}
+
+.method_image {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #5EB01E;
+}
+
+.img_contact {
+    object-fit: contain;
+    /* width: 100%;
+    height: 100%; */
+}
+
+.contact_methods {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.method_wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+
+.method_details {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.contact_head {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: -0.3px;
+}
+
+.contact_value_address,
+.contact_value {
+    color: #FFF;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.contact_value_address {
+    width: 300px;
+}
+
+.input_wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-top: 10px;
+}
+
+.label {
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px;
+    padding-bottom: 5px;
+}
+
+.companyContryWrapper {
+    display: flex;
+    gap: 5px;
+}
+
+.input {
+    border-radius: 4px;
+    border: 1px solid black;
+    height: 30px;
+    outline: none;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.input_area::placeholder,
+.input::placeholder{
+    font-size: 12px;
+}
+
+.input_area{
+    border-radius: 4px;
+    border: 1px solid black;
+    outline: none;
+    padding: 5px;
+    font-size: 16px;
+}
+.btnWrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background: #5EB01E;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 2;
+    align-self: flex-start;
+    color: #ffffff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.chekbox_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 2px;
+}
+
+.chekbox_wrapper div{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    /* justify-content: center; */
+}
+
+.chekbox_wrapper input{
+    margin-right: 5px;
+    height: 15px;
+    width: 15px;
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .wrapper{
+        padding: 40px 20px;
+    }
+    .btn {
+        padding: 12px 20px;
+        line-height: 12px;
+        font-size: 13px;
+    }
+    .form_wrapper{
+        width: 95%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .wrapper{
+        padding: 20px 15px;
+        flex-direction: column;
+    }
+    .section_one {
+        width: 100%;
+        z-index: 2;
+    }
+    
+    .section_two {
+        width: 100%;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding-top: 15px;
+    }
+
+    .heading {
+        font-size: 25px;
+    }
+    .paragraph {
+        font-size: 13px;
+        margin-top: 10px;
+        width: 100%;
+    }
+    .btn {
+        padding: 12px 15px;
+        line-height: 12px;
+        font-size: 13px;
+    }
+    .form_wrapper{
+        width: 80%;
+        padding: 10px 15px;
+    }
+
+    .contact_methods {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .method_wrapper {
+        display: flex;
+        align-items: flex-start;
+        width: 45%;
+    }
+
+    .method_wrapper:last-child{
+        width: 70%;
+    }
+
+    .contact_value_address {
+        width: unset;
+    }
+    .companyContryWrapper {
+        flex-direction: column;
+        gap: 0px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .btn {
+        line-height: 12px;
+        font-size: 12px;
+    }
+
+    .wrapper{
+        flex-direction: column;
+    }
+
+    .form_wrapper{
+        width: 100%;
+        padding: 10px 10px;
+    }
+
+    .method_wrapper:last-child{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .contact_head {
+        font-size: 16px;
+    }
+    
+    .contact_value_address,
+    .contact_value {
+        font-size: 16px;
+    }
+
+    .label {
+        font-size: 16px;
+    }
+    .input {
+        height: 35px;
+        font-size: 17px;
+    }
+    .input_area{
+        font-size: 17px;
+    }
+}

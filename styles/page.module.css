@@ -1,0 +1,42 @@
+
+.container{
+    /* max-width: 2000px; */
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+
+.scroll_to_top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 30px;
+    width: 30px;
+    background-color: #ffffff38;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 1px;
+    z-index: 999;
+}
+
+.scroll_to_top:hover {
+    background-color: #ffffffa3;
+}
+
+.up_arrow:hover{
+    animation: none;
+}
+
+.up_arrow {
+    animation: arrowBlink 2.5s infinite;;
+}
+
+@keyframes arrowBlink {
+    100% {
+      opacity: 0;
+    }
+  }
+
+
+  
