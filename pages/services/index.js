@@ -3,7 +3,7 @@ import Header from '@/components/header'
 import Footer from '@/components/footer'
 import styles from './services.module.css'
 import Image from "next/image";
-import { montserrat, inter, poppins } from '../fonts'
+import { montserrat, inter, poppins } from '@/fonts'
 import { motion } from 'framer-motion';
 import mockData from '@/mock.json'
 
